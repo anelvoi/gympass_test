@@ -1,0 +1,12 @@
+** Teste referente a vaga de Desenvolvedor Backend Júnior **
+
+Autora: Gabriela Pereira Anelvoi
+
+INSTRUÇÕES PARA O FUNCIONAMENTO CORRETO DO CÓDIGO
+
+* O código foi desenvolvido utilizando-se a linguagem R;
+* Para rodar o código é necessário que o usuário faça o download do arquivo “log.txt” e, em seguida, salve o mesmo em uma pasta/diretório conhecida (o);
+* Quando for solicitado, o usuário deverá selecionar o arquivo “log.txt” para a leitura dos dados;
+* O código será, então, executado. 
+
+OBS: No corpo do código corrida.R há uma sequência de comentários que auxiliarão o usuário no entendimento do algoritmo e da lógica de programação utilizada.
